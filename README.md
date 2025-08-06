@@ -80,32 +80,39 @@ Here are a few selected projects showcasing my applied skills across data scienc
 ## 💼 Work Experience
 
 **Junior Associate**  
-Advancing the US-India Partnership Platform (USAID supported) | July 2024 – October 2024  
-- Supported content creation for SACEF 2024, an international energy program.
-- Practiced data analytics using Python, R, and STATA.
-- Designed data visualizations for a USAID Gender and Women’s Economic Empowerment conclave.
+*Advancing the US-India Partnership Platform (USAID-supported)*  
+**July 2024 – October 2024**  
+- Supported content creation for SACEF 2024, an international energy program.  
+- Conducted analytics using Python, R, and STATA.  
+- Designed visualizations for a USAID Gender and Women’s Economic Empowerment conclave.
+
+**IT Intern**  
+*Britannia Industries Limited*  
+**June 2025 – August 2025**  
+- Designed and developed an intelligent chatbot UI using Streamlit integrated with OpenAI APIs for dynamic SQL query generation.  
+- Built caching, vector retrieval (ChromaDB), and markdown formatting pipelines for real-time executive-level analytics.  
+- Implemented role-based access, hierarchical summarization, and structured output formatting using Python and Microsoft SQL Server.
 
 ---
 
 ## 📜 Certifications
 
-- NPTEL: The Joy of Computing Using Python
-- NPTEL: Introduction to Operating Systems
-- Infosys Springboard: Machine Learning Program
+- NPTEL: The Joy of Computing Using Python  
+- NPTEL: Introduction to Operating Systems  
+- Infosys Springboard: Machine Learning Program  
 - Microsoft Power BI Data Analyst Program (Coursera)
 
 ---
 
 ## 💬 Quick Overview
 
-- 📫 How to reach me: aarushishastri18@gmail.com
-- 😄 Pronouns: She/Her
-- 🔭 I’m currently working on applied AI/ML projects & model deployment pipelines.
-- 🌱 I’m actively learning deep learning, NLP, LLM fine-tuning & API integrations.
-- 👯 I’m open to research, internships, and AI-driven collaborative projects.
-- 🤔 I’m passionate about AI for business transformation, sustainability, and inclusion.
+- 📫 How to reach me: aarushishastri18@gmail.com  
+- 😄 Pronouns: She/Her  
+- 🔭 I’m currently working on applied AI/ML projects & model deployment pipelines.  
+- 🌱 I’m actively learning deep learning, NLP, LLM fine-tuning & API integrations.  
+- 👯 I’m open to research, internships, and AI-driven collaborative projects.  
+- 🤔 I’m passionate about AI for business transformation, sustainability, and inclusion.  
 - 💬 Ask me about Python, ML, Power BI, data visualization, or applied AI!
-
 
 ---
 
